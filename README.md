@@ -24,5 +24,3 @@
 
 <h3 align="left">Stats</h3>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=geoffyli&show_icons=true&locale=en" alt="geoffyli" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=geoffyli&" alt="geoffyli" /></p>
