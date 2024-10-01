@@ -1,13 +1,10 @@
-![Header](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE4MjQ1NjEsIm5iZiI6MTcxMTgyNDI2MSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzMwVDE4NDQyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFjMTE2YmU2MDFmZGFmMGFiZDNlMjUzNzUyYTg3NDJmZWIxY2Y3NjkxOGRjZmMwZGZlNjM4ZjVjMjY4ODI2ZmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.y4ynHiOFlrBvoApS4Ligj1EG0xCVeiGU1yTWdkTPMQM)
 <h1 align="center">Hi 👋, I'm Geoff Yulong Li</h1>
 <h3 align="center">A senior student studying at UAlbany & CQUPT</h3>
 <img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE4MjQyNTYsIm5iZiI6MTcxMTgyMzk1NiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzMwVDE4MzkxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4NTgzZDJmZDQzMjQ2MmEzZjQ0MDMzMjI3OGZhMGU0OTMyMDQ0MzFkNTc2ZjMxNjMzNmRkMTc3ZmE4Mzk5MzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0MPq4D1vPPc26uoiMJurV-8X4Xu_Bte3cEIbmRJDKVM">
 
-- 🔭 I’m currently working on [Embedcraft](https://github.com/geoffyli/embedcraft-backend)
+- 🌱 I’m currently learning **Vue, Spring Boot, Redis**
 
-- 🌱 I’m currently learning **.NET, React, spaCy & vector databases**
-
-- 💬 Ask me about **Vue, Spring Boot & Pygame**
+- 💬 Ask me about **Spring Boot, HTML/CSS/JS, Vue**
 
 - 📫 How to reach me **geoff.yulong.li@gmail.com**
 
